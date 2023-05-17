@@ -1,0 +1,231 @@
+head:
+  title: "Portafolio de Atila Orlov - Desarrollador"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hola, Soy Atila Orlov."
+  subtitle: "Desarrollador / Científico de Datos"
+  description: "Atila es el tipo de persona que puede transformar tus datos en algo que es fácil de entender y visualmente atractivo. Así que, si estás buscando a alguien que pueda ayudarte a aprovechar al máximo tus datos, no busques más. Atila es tu hombre, ¡contrátalo hoy mismo!"
+  image:
+    x: "img/showcase/anim_test.gif"
+    _2x: "img/showcase/anim_test.gif"
+  imageMobile:
+    x: "img/showcase/anim_test.gif"
+    _2x: "img/showcase/anim_test.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contactar a Atila"
+    URL: "mailto:atilaorlov@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com"
+
+    - icon: "github"
+      URL: "https://github.com/atilaorlov"
+
+    # - icon: "twitter"
+    #   URL: "https://twitter.com"
+
+    # - icon: "dribbble"
+    #   URL: "https://dribbble.com"
+
+    # - icon: "behance"
+    #   URL: "https://www.behance.net"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/@atilaorlov"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/atilaorlov"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/atilaorlov"
+
+    # - icon: "codepen"
+    #   URL: "#"
+    # 
+    # - icon: "yelp"
+    #   URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "¿Quién soy?"
+  content: 
+    <p class="lead">
+    <strong>Soy un apasionado de mi trabajo</strong> y siempre estoy buscando nuevas formas de utilizar mis habilidades para ayudar a mis clientes a resolver sus desafíos de negocio.
+    </p>
+    <p class="lead">
+     Me especializo en la creación de dashboards interactivos, lo que permite a mis clientes visualizar sus datos de una manera fácil y accesible ¡Directamente desde su navegador!.
+     Además de mis habilidades avanzadas en lenguajes de programación. Tengo la capacidad de construir modelos matemáticos y estadísticos complejos. Esta combinación de habilidades me permite traducir grandes conjuntos de datos en información valiosa para mis clientes.
+    </p>
+    <p class="lead">
+     Soy entusiasta del arte digital, en mi tiempo libre creo <a href="https://opensea.io/collection/n-gonal-reflections">colecciones de arte NFT</a>. Me concentro en el arte algorítmico.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Acerca de mi"
+    URL: "https://www.linkedin.com"
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experiencia"
+  description: "Más de 5 años de experiencia trabajando con empresas de todo el mundo.
+                Diseño y desarrollo productos de ciencia de datos para ayudar a las empresas a aumentar la rentabilidad y mejorar la experiencia del cliente.
+                He impartido clases / talleres / cursos personalizados, particulares y grupales tanto a alumnos como a profesores en distintas instituciones y empresas en México."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Descarga mi CV"
+    URL: "#"
+
+  items:
+
+    - title: "Desarrollador / Científico de Datos / Instructor"
+      company: "Freelance"
+      duration: "Mar 2021 - Presente"
+
+    - title: "Desarrollador / Analista de Datos"
+      company: "Datametrix"
+      duration: "Nov 2019 - Mar 2021"
+
+# education
+education:
+  enable: true
+  title: "Educación"
+  items:
+    - university: "Universidad Autónoma Metropolitana - Unidad Iztpalapa"
+      year: "2020"
+      degree: "Licenciatura en Matemáticas"
+
+# Client & Work
+client_and_work:
+  title: "Portafolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Datametrix"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Marymount"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "conoCT"
+      description: "Analiza palabras y frases más usadas de tu fb. Esta aplicación se construye en mi curso Visualización de Datos y Dashboarding en R utilizando Rshiny"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://atilaorlov.shinyapps.io/conoCT/"
+      image:
+        x: "img/works/app_facebook_wordcloud.png"
+        _2x: "img/works/app_facebook_wordcloud.png"
+      is_even: true
+
+    - title: "drinKit!"
+      description: "Crea tu propia obra de arte algorítmico dentro de una experiencia llena de infusión."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://atilaorlov.shinyapps.io/drinKit/"
+      image:
+        x: "img/works/app_algorithmic_art.png"
+        _2x: "img/works/app_algorithmic_art.png"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonios"
+  items:
+  
+    - name: "Rafael López, M.Sc"
+      position: "Científico de Datos, Datametrix"
+      content: "Estoy muy satisfecho con mi decisión de contratar a Atila para desarrollo de dashboards informativos. Su conocimiento y habilidad en esta área fue evidente en el resultado final, el cual superó nuestras expectativas."
+      image:
+        x: "img/testimonials/rafa.jpg"
+        _2x: "img/testimonials/rafa.jpg"
+        
+    - name: "Iván Castorena, M.Sc"
+      position: "Científico de Datos, ICN-UNAM"
+      content: "Atila es un profesor sumamente apasionado y comprometido con lo que enseña. Sus clases son dinámicas y sabe aterrizar con ejemplos prácticos conceptos que de otra manera resultaría difícil entender."
+      image:
+        x: "img/testimonials/ivan.jpg"
+        _2x: "img/testimonials/ivan.png"
+
+    - name: "Jolvier Chávez"
+      position: "Analista de Datos, Satelite"
+      content: "Con la ayuda de Atila pude obtener mi primer puesto como analista de datos."
+      image:
+        x: "img/testimonials/rod.jpg"
+        _2x: "img/testimonials/rod.png"
+
+# contact
+contact:
+  enable: true
+  title: "Contacta a Atila"
+    
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Enviar mensaje"
+    btnAction: 'mailto:atilaorlov@gmail.com'
+    
+  phone:
+    title: "Número de teléfono"
+    number: "5617602938"
+  email:
+    title: "Email"
+    email: '<a href="mailto:atilaorlov@gmail.com">atilaorlov@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Cuernavaca, Morelos."
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
