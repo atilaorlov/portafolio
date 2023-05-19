@@ -21,7 +21,7 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com"
+      URL: "https://www.linkedin.com/in/atilaorlov/"
 
     - icon: "github"
       URL: "https://github.com/atilaorlov"
@@ -59,7 +59,7 @@ about:
     <strong>Soy un apasionado de mi trabajo</strong> y siempre estoy buscando nuevas formas de utilizar mis habilidades para ayudar a mis clientes a resolver sus desafíos de negocio.
     </p>
     <p class="lead">
-     Me especializo en la creación de dashboards interactivos, lo que permite a mis clientes visualizar sus datos de una manera fácil y accesible ¡Directamente desde su navegador!.
+     Me especializo en la creación de dashboards interactivos, lo que permite a mis clientes visualizar sus datos de una manera fácil y accesible ¡directamente desde su navegador!
      Además de mis habilidades avanzadas en lenguajes de programación. Tengo la capacidad de construir modelos matemáticos y estadísticos complejos. Esta combinación de habilidades me permite traducir grandes conjuntos de datos en información valiosa para mis clientes.
     </p>
     <p class="lead">
@@ -68,7 +68,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "Acerca de mi"
-    URL: "https://www.linkedin.com"
+    URL: "https://www.linkedin.com/in/atilaorlov/"
   image:
     x: "img/who-am-i/user-picture-2.jpg"
     _2x: "img/who-am-i/user-picture-2.jpg"
@@ -83,7 +83,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/"
+    URL: "https://www.linkedin.com/in/atilaorlov/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Descarga mi CV"
@@ -147,7 +147,7 @@ client_and_work:
 
   works:
     - title: "conoCT"
-      description: "Analiza palabras y frases más usadas de tu fb. Esta aplicación se construye en mi curso Visualización de Datos y Dashboarding en R utilizando Rshiny"
+      description: "Analiza palabras y frases más usadas de tu fb. Esta aplicación se construye en mi curso Visualización de Datos y Dashboarding en R utilizando Rshiny."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -158,7 +158,7 @@ client_and_work:
       is_even: true
 
     - title: "drinKit!"
-      description: "Crea tu propia obra de arte algorítmico dentro de una experiencia llena de infusión."
+      description: "Crea tu propia obra de arte algorítmico dentro de una experiencia llena de infusión. Esta aplicación se construye en mi curso Visualización de Datos y Dashboarding en R utilizando Rshiny."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -188,14 +188,14 @@ testimonial:
       content: "Atila es un profesor sumamente apasionado y comprometido con lo que enseña. Sus clases son dinámicas y sabe aterrizar con ejemplos prácticos conceptos que de otra manera resultaría difícil entender."
       image:
         x: "img/testimonials/ivan.jpg"
-        _2x: "img/testimonials/ivan.png"
+        _2x: "img/testimonials/ivan.jpg"
 
     - name: "Jolvier Chávez"
       position: "Analista de Datos, Satelite"
       content: "Con la ayuda de Atila pude obtener mi primer puesto como analista de datos."
       image:
         x: "img/testimonials/rod.jpg"
-        _2x: "img/testimonials/rod.png"
+        _2x: "img/testimonials/rod.jpg"
 
 # contact
 contact:
