@@ -56,7 +56,7 @@ about:
   title: "¿Quién soy?"
   content: 
     <p class="lead">
-    <strong>Soy un apasionado de mi trabajo</strong> y siempre estoy buscando nuevas formas de utilizar mis habilidades para ayudar a mis clientes a resolver sus desafíos de negocio.
+    <strong>soy un apasionado de mi trabajo</strong> y siempre estoy buscando nuevas formas de utilizar mis habilidades para ayudar a mis clientes a resolver sus desafíos de negocio.
     </p>
     <p class="lead">
      Me especializo en la creación de dashboards interactivos, lo que permite a mis clientes visualizar sus datos de una manera fácil y accesible ¡directamente desde su navegador!
@@ -79,7 +79,7 @@ experience:
   title: "Experiencia"
   description: "Más de 5 años de experiencia trabajando con empresas de todo el mundo.
                 Diseño y desarrollo productos de ciencia de datos para ayudar a las empresas a aumentar la rentabilidad y mejorar la experiencia del cliente.
-                He impartido clases / talleres / cursos personalizados, particulares y grupales tanto a alumnos como a profesores en distintas instituciones y empresas en México."
+                He impartido clases / talleres / cursos personalizados, particulares y grupales, tanto a alumnos como a profesores en distintas instituciones y empresas en México."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
