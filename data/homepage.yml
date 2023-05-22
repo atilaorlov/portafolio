@@ -4,7 +4,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hola, Soy Atila Orlov."
+  title: "Hola, soy Atila Orlov."
   subtitle: "Desarrollador / Científico de Datos"
   description: "Atila es el tipo de persona que puede transformar tus datos en algo que es fácil de entender y visualmente atractivo. Así que, si estás buscando a alguien que pueda ayudarte a aprovechar al máximo tus datos, no busques más. Atila es tu hombre, ¡contrátalo hoy mismo!"
   image:
@@ -56,7 +56,7 @@ about:
   title: "¿Quién soy?"
   content: 
     <p class="lead">
-    <strong>soy un apasionado de mi trabajo</strong> y siempre estoy buscando nuevas formas de utilizar mis habilidades para ayudar a mis clientes a resolver sus desafíos de negocio.
+    <strong>Soy un apasionado de mi trabajo</strong> y siempre estoy buscando nuevas formas de utilizar mis habilidades para ayudar a mis clientes a resolver sus desafíos de negocio.
     </p>
     <p class="lead">
      Me especializo en la creación de dashboards interactivos, lo que permite a mis clientes visualizar sus datos de una manera fácil y accesible ¡directamente desde su navegador!
